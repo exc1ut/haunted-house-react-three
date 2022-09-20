@@ -1,5 +1,5 @@
 import { useLoader } from '@react-three/fiber';
-import React, { useLayoutEffect, useRef } from 'react';
+import { useLayoutEffect, useRef } from 'react';
 import type { Mesh } from 'three';
 import { Float32BufferAttribute, RepeatWrapping, TextureLoader } from 'three';
 

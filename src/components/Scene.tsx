@@ -19,7 +19,6 @@ import House from './House';
 export interface ExampleProps {}
 
 const Scene = ({}: ExampleProps) => {
-	
   return (
     <div
       css={{
