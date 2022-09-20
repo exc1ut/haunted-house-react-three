@@ -4,6 +4,8 @@
 
 🚀 Haunted house is built using Next.js and React Three Fiber
 
+🌌 Visit: [Haunted House](https://haunted-house-react-three.vercel.app) 
+
 ### Features
 
 Developer experience first:
