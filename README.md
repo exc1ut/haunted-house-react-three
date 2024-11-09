@@ -64,6 +64,7 @@ Open http://localhost:3000 with your favorite browser to see your project.
 ├── .husky                          # Husky configuration
 ├── .vscode                         # VSCode configuration
 ├── public                          # Public assets folder
+├── tests                           # tests
 ├── src
 │   ├── layouts                     # Layouts components
 │   ├── pages                       # Next JS Pages
